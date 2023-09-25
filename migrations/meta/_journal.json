@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1695273204877,
+      "tag": "0000_nice_bloodstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1695490670562,
+      "tag": "0001_funny_warbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1695491068551,
+      "tag": "0002_acoustic_stellaris",
+      "breakpoints": true
+    }
+  ]
+}
